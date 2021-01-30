@@ -10,4 +10,5 @@ int main()
 {
     cout << sum (2, 3) << endl;
     cout << split(6 , 3) << endl;
+    cout << split(3, 2) << endl;
 }
